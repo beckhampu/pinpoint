@@ -89,6 +89,7 @@
         <sniffer.artifactid>java16</sniffer.artifactid>
         <dubbo.version>2.5.3</dubbo.version>
         <asm.version>6.0</asm.version>
+        <sharding.sphere.version>3.0.0.M2-SNAPSHOT</sharding.sphere.version>
     </properties>
 
     <dependencies>
